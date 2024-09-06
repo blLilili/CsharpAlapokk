@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\bin\Debug\net8.0\CsharpAlapokk.exe
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\bin\Debug\net8.0\CsharpAlapokk.deps.json
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\bin\Debug\net8.0\CsharpAlapokk.runtimeconfig.json
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\bin\Debug\net8.0\CsharpAlapokk.dll
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\bin\Debug\net8.0\CsharpAlapokk.pdb
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.AssemblyInfo.cs
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.sourcelink.json
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.dll
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\refint\CsharpAlapokk.dll
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.pdb
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\CsharpAlapokk.genruntimeconfig.cache
+C:\Users\User\Documents\Bibók Lili\c#\CsharpAlapokk\obj\Debug\net8.0\ref\CsharpAlapokk.dll
